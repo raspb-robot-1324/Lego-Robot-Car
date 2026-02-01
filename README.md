@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raspb-robot-1324
-- 👀 I’m interested in robotics(raspberry pi)
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on my lego-robot car controlled with raspberry pi
+- 👀 I’m interested in Robotics and Software Development
+- 🌱 I’m currently learning ML with Python
+- 💞️ I’m looking to collaborate on any electronics project
 - 📫 How to reach me: o_frds@outlook.com
 
 <!---
